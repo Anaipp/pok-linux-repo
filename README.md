@@ -1,6 +1,6 @@
 # Pok Linux repos
 
-[![Updated](https://img.shields.io/maintenance/yes/2020.svg)]()
+[![Maintenance](https://img.shields.io/maintenance/yes/2020.svg)]()
 
 ## Contributing
 
