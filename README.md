@@ -1,4 +1,4 @@
-# Pok Linux repos
+# YaAD repos
 
 ## License
 
